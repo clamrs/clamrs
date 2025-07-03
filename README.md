@@ -1,8 +1,4 @@
-  ### Boas vindas ao meu perfil! 🙂
-
-Meu nome é Clarice 
-
-- Sou estudante da [Alura](https://www.alura.com.br) e não faço ideia do que estou fazendo 
+oi ✨
 
 ### Contato 📫
 
